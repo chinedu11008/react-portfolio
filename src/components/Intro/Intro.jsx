@@ -26,11 +26,10 @@ const Intro = () => {
       {/* left name side */}
       <div className="i-left">
         <div className="i-name">
-          {/* yahan change hy darkmode ka */}
           <span style={{ color: darkMode ? "white" : "" }}>Hy! I Am</span>
           <span>Chinedu Anakor</span>
           <span>
-            Frontend Developer with high level of experience in web designing
+            Frontend Developer, Designer and Freelancer<br></br>with high level of experience in web designing
             and development.
           </span>
         </div>
